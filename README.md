@@ -2,7 +2,7 @@
 
 Trabajo de Inteligencia Artificial de la Corporación Universitaria Iberoamericana.
 
-**Estudiantes:** Owen Esteban Posada Rivas y José Andrés Murillo Manco  
+**Estudiantes:** Owen Esteban Posada Rivas,  Fredy Alexander Romero Correal y José Andrés Murillo Manco  
 **Docente:** Sandra Isabel Rodríguez Bautista  
 **Tema:** sistema en Python que, con una base de conocimiento y reglas, elige una ruta en el MIO de Cali.
 
